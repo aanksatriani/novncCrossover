@@ -1,4 +1,4 @@
 FROM aank999/ubuntu-desktop-lxde-vnc:latest
-EXPOSE 8080
+EXPOSE 6080
 ENTRYPOINT ["/startup.sh"]
 
